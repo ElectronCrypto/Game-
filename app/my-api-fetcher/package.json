@@ -1,0 +1,12 @@
+{
+  "name": "my-api-fetcher",
+  "version": "1.0.0",
+  "description": "A simple application to fetch and display data from an API.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  }
+}
